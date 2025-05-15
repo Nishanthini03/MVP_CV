@@ -1,4 +1,4 @@
-#Project Vision: AI Resume Screener
+**Project Vision: AI Resume Screener**
 
 **Problem Statement**
 
