@@ -20,4 +20,5 @@ The MVP will include:
 **Target Audience**
 
 HR Managers: To streamline the hiring process and ensure no valuable candidates are overlooked.
+
 Subject Matter Experts (SMEs): To validate candidates based on comprehensive profiles.
