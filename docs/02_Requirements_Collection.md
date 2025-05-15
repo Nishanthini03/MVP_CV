@@ -1,6 +1,7 @@
 **Requirements Collection: AI Resume Screener**
 
 **Product Expectations**
+
 The AI Resume Screener aims to enhance the recruitment process by automating resume screening and incorporating LinkedIn activity analysis. The system should be efficient, user-friendly, and capable of handling bulk resume uploads. It should offer separate scoring for resume content and LinkedIn activity, along with suggestions for candidates with moderate resume scores but high LinkedIn engagement.
 
 **Functional Requirements**
