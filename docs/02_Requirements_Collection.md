@@ -10,7 +10,9 @@ The AI Resume Screener aims to enhance the recruitment process by automating res
 **Functional Requirements**
 
 Resume Upload:
+
     Support for PDF and DOCX formats.
+    
     Batch upload of multiple resumes.
 
 Job Description Upload:
