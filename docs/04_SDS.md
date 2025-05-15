@@ -97,7 +97,7 @@ LinkedIn Score: Float
 
 Total Score: Float
 
-**5. Database Design **
+**5. Database Design**
 
 Tables:
 
