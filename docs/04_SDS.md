@@ -1,6 +1,6 @@
-Software Design Specification (SDS): AI Resume Screener
+**Software Design Specification (SDS): AI Resume Screener**
 
-1. System Architecture
+**1. System Architecture**
 
 The AI Resume Screener is designed as a modular system with the following core components:
 
@@ -12,11 +12,8 @@ Database: Stores resumes, job descriptions, scores, and LinkedIn data.
 
 AI Models: Responsible for resume parsing, scoring, and LinkedIn activity analysis.
 
-System Architecture Diagram
 
-(To be included)
-
-2. Module Descriptions
+**2. Module Descriptions**
 
 2.1 Frontend Module
 
@@ -70,7 +67,7 @@ Features:
 
 Efficient storage and retrieval of candidate data
 
-3. API Endpoints
+**3. API Endpoints**
 
 POST /upload-resume: Upload a resume file.
 
@@ -80,7 +77,7 @@ GET /ranked-candidates: Retrieve ranked candidates list.
 
 GET /csv-export: Download ranked candidates as CSV.
 
-4. Data Structures
+**4. Data Structures**
 
 Resume Data:
 
@@ -100,7 +97,7 @@ LinkedIn Score: Float
 
 Total Score: Float
 
-5. Database Design 
+**5. Database Design **
 
 Tables:
 
@@ -112,7 +109,7 @@ Job Descriptions
 
 Scores
 
-6. Technology Stack
+**6. Technology Stack**
 
 Frontend: Streamlit, CSS
 

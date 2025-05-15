@@ -76,7 +76,7 @@ User Interface: Web-based dashboard
 Database: Stores resumes, scores, and LinkedIn data
 Third-Party APIs: LinkedIn data extraction
 
-4. Appendices
+**4. Appendices**
 
 A. Glossary of Terms
 Resume Parsing: Extracting key information (like name, contact details, skills) from resumes.
