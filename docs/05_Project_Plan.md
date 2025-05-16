@@ -12,12 +12,10 @@ Day3	Develop frontend UI with Streamlit (upload forms, dashboard for ranking and
 Day4	Testing (functional and integration), bug fixing, prepare CSV export feature, final deployment and documentation.
 
 **2. Milestones and Deliverables**
-**Milestone**             **Deliverable**                               **Completion Time**
 
-Requirements & Design	    Final SRS and SDS docs, ER diagram	                Day 1
-
-Backend MVP	                Resume/job desc upload, scoring APIs	            Day 2
-
-Frontend MVP	            Upload & dashboard UI	                            Day 3
-
-Testing & Deployment	    Tested, working MVP + CSV export	                Day 4
+| **Milestone**     | **Deliverable**  | **Completion Time**    |
+|----------|----|------------|
+| Requirements & Design | SRS and SDS docs, ER diagram  | Day 1        |
+| Backend MVP	 | Resume/job desc upload, scoring APIs | Day 2     |
+| Frontend MVP     | Upload & dashboard UI  | Day 3  |
+| Testing & Deployment     | Tested, working MVP + CSV export  | Day 4  |
